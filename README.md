@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @odonatanerd
 - 👀 I’m interested in nature
-- 🌱 I’m currently learning html and python
-- 💞️ I’m looking to collaborate on other projects to learn as efficiently as possible.
+- 🌱 I’m currently learning JS and Python.
+- 💞️ I’m looking to get the basics down in a concrete fashion.
 
 
 <!---
